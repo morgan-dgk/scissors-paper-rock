@@ -1,2 +1,4 @@
 #!/usr/bin/env node
-console.log("testing");
+const getPlayerInput = require("./lib/getPlayerInput");
+
+getPlayerInput();
