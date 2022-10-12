@@ -1,0 +1,23 @@
+{
+  "name": "scissors-paper-rock",
+  "version": "1.0.0",
+  "description": "A simple cli-based game of scissors, paper, rock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morgan-dgk/scissors-paper-rock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morgan-dgk/scissors-paper-rock/issues"
+  },
+  "homepage": "https://github.com/morgan-dgk/scissors-paper-rock#readme", 
+  "bin": {
+    "SPR": "index.js"
+  }
+}
