@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/morgan-dgk/scissors-paper-rock#readme", 
   "bin": {
-    "SPR": "index.js"
+    "spr-play": "index.js"
   }
 }
